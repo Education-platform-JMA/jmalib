@@ -11,7 +11,7 @@ Repository with preconfigured simple project.
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* Sergey Melnikov - [pdasilem](https://github.com/pdasilem)
+* 
 
 ## Acknowledgments
 ...
