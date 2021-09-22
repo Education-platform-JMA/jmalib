@@ -1,4 +1,4 @@
-package ru.jma.jmalib;
+package ru.education_platform_jma.jmalib;
 
 // you should add needed functionality to the class (module)
 public class ClassLib {
